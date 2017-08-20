@@ -1,4 +1,4 @@
-﻿<?php include ('include/doc-type.php'); ?>
+<?php include ('include/doc-type.php'); ?>
     <head>
     <?php include ('include/head.php'); ?>
     </head>

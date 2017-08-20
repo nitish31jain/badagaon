@@ -1,4 +1,4 @@
-﻿<p style = 'font-size:20px; color : darkgreen;'> Banking </p> 
+<p style = 'font-size:20px; color : darkgreen;'> Banking </p> 
 <h3> स्टेट बैंक ऑफ़ इंडिया </h3>
 <form>
 	<table>

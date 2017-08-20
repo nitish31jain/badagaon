@@ -1,4 +1,4 @@
-﻿<div id = "nagar-parishad">
+<div id = "nagar-parishad">
 	<form>
 		<h3> नगर परिषद बडागांव धसान</h3>					
 		<table>

@@ -7,7 +7,7 @@
                 <a href = "images/dhaurigarh-kila-6.jpg"> <img src="images/slides/dhaurigarh-kila-6-copy.jpg" width="383" height="198" alt="" title="धौरीगढ़ किला"/> </a>
                 <a href = "images/hanuman-mandir-1.jpg"> <img src="images/slides/hanuman-mandir-1-copy.jpg" width="383" height="198" alt=""/> </a>
                 <a href = "images/jain-mandir-11.jpg"> <img src="images/slides/jain-mandir-11-copy.jpg" width="383" height="198" alt=""/> </a>
-                <a href = "images/shaahi-masjid-1.jpg"> <img src="images/slides/shaahi-masjid-1-copy.jpg" width="383" height="198" alt="""/> </a>
+                <a href = "images/shaahi-masjid-1.jpg"> <img src="images/slides/shaahi-masjid-1-copy.jpg" width="383" height="198" alt=""/> </a>
                 <a href = "images/pokhna-taalaab-1.jpg"> <img src="images/slides/pokhna-taalaab-1-copy.jpg" width="383" height="198" alt="""/> </a>
             </div>
             <!-- <div id="htmlcaption" class="nivo-html-caption">

@@ -1,4 +1,4 @@
-﻿<h1> MP-PSC </h1>
+<h1> MP-PSC </h1>
 <form>
 	<p> <b> Name : </b> Dharnendra Jain </p>
 	<p> <b> Year : </b> 1996 </p>

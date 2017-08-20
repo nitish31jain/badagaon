@@ -1,4 +1,4 @@
-﻿<h1> <p style = 'font-size:20px; color : darkgreen;'> <b> Students in Education Outside </b> </p></h1>
+<h1> <p style = 'font-size:20px; color : darkgreen;'> <b> Students in Education Outside </b> </p></h1>
 
 <marquee id="test" behavior="scroll" direction="up" height="120" scrolldelay="300" scrollamount="2" onMouseOver="document.all.test.stop()" onMouseOut="document.all.test.start()"> <p style = 'font-size:14px; color : black;'> पर्याप्त जानकारी की कमी के कारण बहुत सारे लोगों की डिटेल इस पेज में नही है | जो भी बाहर किसी भी स्कूल या कॉलेज में पढ़ रहे हों, जिनका नाम इस पेज में नही है, या जिसका है तो कोई गलती हो, या किसी ने कोई स्कूल, कॉलेज, सिटी बदली हो, और टाइम टू टाइम अपडेट के लिए हमारे ईमेल एड्रेस..... dhasan.badagaon@gmail.com पर अपनी पूरी डिटेल भेजें | जो भी किसी कंपनी, बैंक, या किसी भी सरकारी, प्राइवेट जॉब के लिए चयनित हैं, अपनी डिटेल जल्दी से जल्दी अपडेट कराएं | </p> </marquee>
 
