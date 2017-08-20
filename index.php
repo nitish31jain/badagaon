@@ -1,57 +1,34 @@
-﻿<!DOCTYPE html>
-<?php include ('inc/doc-type-content.php'); ?>
+<?php include ('include/doc-type.php'); ?>
+    <head>
+    <?php include ('include/head.php'); ?>
+    </head>
+    <body>
+        <!-- header-wrap -->
+        <?php include ('include/header.php'); ?>
 
-	<head>
-		<?php include ('inc/head.php'); ?>
-	</head>
-	
-	<body>
-		<!-- header-wrap -->
-		<div id="header-wrap">
-			 <header>
-				<?php include('inc/header.php'); ?>
-			 </header>
-		</div>
+        <!-- content-wrap -->
+        <div class="content-wrap">   
+            <!-- main -->
+            <section id="main">
+                <?php include ('include/intro-box.php'); ?>
+                <?php include ('include/slider.php'); ?>
+                <div class="row no-bottom-margin"></div>
+            </section>
+            
+            <!-- about us -->
+            <section id="about-us" class="clearfix">
+                <h1>About us.</h1>
+                <div class="primary">
+                    <?php include ('include/intro-box-detailed.php'); ?>
+                </div>
+                <aside>
+                    <?php include ('include/badagaon-at-glance.php'); ?>
+                    <?php include ('include/links.php'); ?>
+                </aside>
+            </section>
+        </div>
 
-		<!-- content-wrap -->
-		<div class="content-wrap">
-			<!-- main -->
-			<section id="main">
-				<?php include('inc/common-main-section.php'); ?>          
-			</section>
-		
-			<!-- Styles -->
-			<section id="styles" class="clearfix">
-				<div class="primary">
-					<h2 align = "left"> बडागांव धसान </h2>
-					<div class = "post">
-						<?php include('inc/content-main-page.php'); ?>
-					</div>
-				</div>
-				
-				<aside>
-					<?php include ('inc/badagaon-at-glance-panel.php'); ?>
-					<?php include ('inc/aside-content.php'); ?>
-				</aside>
-				
-				<a class="back-to-top" href="#main">Back to Top</a>
-			</section>
-		</div>
-
-		<!-- footer -->
-		<footer>
-			<?php include('inc/footer.php'); ?>
-			Basic Template Design <a href = "http://styleshout.com"> Styleshout </a>
-		</footer>
-	</body>
+        <!-- footer-wrap -->
+        <?php include ('include/footer.php'); ?>
+    </body>
 </html>
-
-<!-- Website is under maintenance
-<br/>
-Please visit website after 11PM, 24 Jan 2012
-<br/>
-Sorry for your inconvenience
-<br/>
-Regards - 
-Nitish Jain
-Website Administrator(9425150499) -->
