@@ -1,4 +1,4 @@
-﻿<h1> <p style = 'font-size:20px; color : darkgreen;'> <b> Star Achievers </b> </p></h1>
+<h1> <p style = 'font-size:20px; color : darkgreen;'> <b> Star Achievers </b> </p></h1>
 
 <marquee id="test" behavior="scroll" direction="up" height="120" scrolldelay="300" scrollamount="2" onMouseOver="document.all.test.stop()" onMouseOut="document.all.test.start()"> <p style = 'font-size:14px; color : black;'> पर्याप्त जानकारी की कमी के कारण बहुत सारे लोगों की डिटेल इस पेज में नही है | जो भी बाहर कहीं जॉब कर रहे हों, जिनका नाम इस पेज में नही है, या जिसका है तो कोई गलती हो, या किसी ने कोई स्कूल, कॉलेज, कंपनी, फील्ड या सिटी बदली हो, और टाइम टू टाइम अपडेट के लिए हमारे ईमेल एड्रेस..... dhasan.badagaon@gmail.com पर अपनी पूरी डिटेल एक अच्छी क्वालिटी की फोटो के साथ भेजें | हम बडागांव के सारे स्टार एचीवर्स की एक फोरम बना रहे हैं, जिससे कैरियर से मिली जुली सारी जानकारी हर किसी बच्चे को मिल सके, तो कृपया अपनी डिटेल भेजें | </p> </marquee>
 				

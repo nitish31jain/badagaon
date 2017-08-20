@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <?php include ('inc/doc-type-content.php'); ?>
 
 	<head>
